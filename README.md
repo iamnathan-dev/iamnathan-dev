@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamnathan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/iamnathan_dev?logo=twitter&style=for-the-badge" alt="iamnathan_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Nestjs**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://iamnathan.vercel.app/](https://iamnathan.vercel.app/)
 
