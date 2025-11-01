@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://iamnathan.vercel.app/](https://nameisblank.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://nameisblank.vercel.app/](https://nameisblank.vercel.app/)
 
 - 💬 Ask me about **react, react-native, next.js, typescript**
 
